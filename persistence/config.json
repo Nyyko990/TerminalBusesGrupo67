@@ -1,0 +1,13 @@
+{
+  "nombreTerminal":"Terminal Central",
+  "cantidadTotalBuses":3,
+  "buses":[
+    {"id":1,"tipo":"P"},
+    {"id":2,"tipo":"D"},
+    {"id":3,"tipo":"N"}
+  ],
+  "usuarios":[
+    {"usuario":"Admin","contrasena":"Admin1234"},
+    {"usuario":"Usuario","contrasena":"Fide123"}
+  ]
+}
