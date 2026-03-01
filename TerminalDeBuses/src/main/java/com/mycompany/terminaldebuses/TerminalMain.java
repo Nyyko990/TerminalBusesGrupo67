@@ -61,13 +61,10 @@ public class TerminalMain {
                     default:
                         JOptionPane.showMessageDialog(null, "Opcion invalida.");
                 }
-
             } catch (NumberFormatException e) {
                 JOptionPane.showMessageDialog(null, "Ingrese un numero valido porfavor.");
             }
-
         }
-
     }
 
     private static void crearTicket() {
@@ -117,19 +114,17 @@ public class TerminalMain {
                        + "ID: " + id + "\n"
                        + "Edad: " + edad + "\n"
                        + "TipoBus: " + tipoBus + "\n\n"
-                       + "HoraCompra: (automática)\n"
-                       + "HoraAbordaje: -1\n"
+                       + "HoraCompra:\n"
+                       + "HoraAbordaje: \n"
                        + "Servicio: NA";
 
         JOptionPane.showMessageDialog(null, resumen);
-
     }
 
     private static void mostrarColas() {
-
         //simulado
         JOptionPane.showMessageDialog(null,
-                "--- ESTADO DE COLAS ---\nMostrando estado actual (simulado).");
+                "simulado");
 
     }
 
