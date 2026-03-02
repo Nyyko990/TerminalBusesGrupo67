@@ -1,0 +1,14 @@
+{
+  "tickets": [
+    {
+      "nombre": "Fer",
+      "id": "4",
+      "edad": 4,
+      "moneda": "54",
+      "horaCompra": 1772444300236,
+      "horaAbordaje": -1,
+      "servicio": "NA",
+      "tipoBus": "D"
+    }
+  ]
+}
