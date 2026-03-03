@@ -1,0 +1,6 @@
+com\mycompany\persistence\Persistence.class
+com\mycompany\persistence\ConfigRepository.class
+com\mycompany\persistence\Configuracion.class
+com\mycompany\persistence\Bus.class
+com\mycompany\persistence\JsonUtilidades.class
+com\mycompany\persistence\Usuario.class
